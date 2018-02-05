@@ -1,6 +1,5 @@
 phonebook = {"James":"770-256-4525", "Steve":"770-355-6356", "John":"404-345-5677", "Albert":"678-345-4674"}
 
-
 print("Electronic Phone Book \n===================== ")
 print("1. Look up an entry ")
 print("2. Set an entry")
